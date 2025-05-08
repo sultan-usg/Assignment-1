@@ -1,4 +1,3 @@
-# TypeScript Concepts
 
 ## How does TypeScript help in improving code quality and project maintainability?
 
@@ -40,6 +39,7 @@ If you rename a field in an object, TypeScript will show errors in all places th
 In large apps with many files, TypeScript keeps things organized and consistent.
 
 > **In short:** TypeScript is like a helpful assistant that checks your code, explains it better, and protects it from bugs — especially useful as your project grows.
+
 
 
 
